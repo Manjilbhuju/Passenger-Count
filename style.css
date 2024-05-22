@@ -1,0 +1,52 @@
+body {
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+h1 {
+    font-size: 50px;
+    padding-left: 750px;
+    color: whitesmoke;
+}
+
+#count-el {
+    font-size: 40px;
+    color: yellow;
+    padding-left: 890px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: blue;
+    margin-left: 700px;
+}
+
+#decrement-btn {
+    background: red;
+}
+
+#save-btn {
+    background: darkgreen;
+    margin-left: 800px;
+}
+
+#save-el, #total {
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    color: yellow;
+    font-size: 30px;
+    padding-left: 700px;
+}
